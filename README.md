@@ -1,2 +1,2 @@
 # dcrm
-A CRUD application developed using django
+A CRM (Customer Relationship management) application developed using django. 
